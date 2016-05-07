@@ -1,0 +1,22 @@
+{
+   "ChangeLog": "None.......",
+   "DownloadSource": "https://raw.githubusercontent.com/CHH2000dayself/WarshipGirlsRTranslator/master/",
+   "ModInfos": [
+      {
+         "Name": "JapaneseMod",
+         "PackageName_android": "ja-android 4.29.zip",
+         "PackageName_IOS": "ja-IOS 4.29.zip",
+         "RequiredSoftWareVersion": 2016050100,
+         "xmlVer": 2016042900
+      },
+      {
+         "Name": "ChineseMod",
+         "PackageName_android": "zh-android 4.29.zip",
+         "PackageName_IOS": "zh-IOS 4.29.zip",
+         "RequiredSoftWareVersion": 2016050100,
+         "xmlVer": 2016042900
+      }
+   ],
+   "NewestVersion": 2016050100,
+   "UpdateURL": "http://www.yutou233.cn/Translator/2016050100.apk"
+}
