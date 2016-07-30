@@ -1,11 +1,30 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:gravity="center">
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="match_parent"
+	android:layout_width="match_parent"
+	android:orientation="vertical"
+	android:id="@+id/ll">
 
-    <TextView
-        android:text="@string/hello_world"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+	<android.support.v7.widget.Toolbar
+		xmlns:app="http://schemas.android.com/apk/res-auto"
+		xmlns:tools="http://schemas.android.com/tools"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/toolbar"
+		android:background="?attr/colorPrimary"
+		android:minHeight="?attr/actionBarSize"
+		android:fitsSystemWindows="true"
+		app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+		app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+		app:title="@string/app_name">
+
+	</android.support.v7.widget.Toolbar>
+
+	<RelativeLayout
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:id="@+id/mainwindow"/>
 
 </LinearLayout>
+

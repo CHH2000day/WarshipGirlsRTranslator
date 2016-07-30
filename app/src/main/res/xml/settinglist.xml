@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android='http://schemas.android.com/apk/res/android' >
+    <!-- 设置的类别 -->
+    <PreferenceCategory
+        android:key='basic_setting'
+        android:summary='@string/basic_setting'
+        android:title='@string/basic_setting' >
+        <CheckBoxPreference
+            android:key='ovrd_mode'
+            android:summary='@string/ovrd'
+            android:title='@string/override_md' />
+        <CheckBoxPreference
+            android:key='log_isenabled'
+            android:title='@string/enable_log' />
+        <EditTextPreference
+            android:key="log_path"
+            android:defaultValue="/sdcard/Adroid/data/com.huanmengz.zhanjian2/log/log.log"
+            android:title="Log path" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key='gameserver'
+        android:summary='@string/server_type'
+        android:title='@string/server_type' >
+        <ListPreference
+            android:entries='@array/ver_types'
+            android:entryValues='@array/ver_types'
+            android:key='gameserver_type'
+            android:summary='@string/server_type'
+            android:title='@string/select_server_type' />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -2,4 +2,17 @@
 <resources>
     <style name="AppTheme" parent="@android:style/Theme.Material.Light">
 	</style>
+	<style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<!--继承AppCompat.Light-->
+        <!-- customize the color palette -->
+        <item name="colorPrimary">#006CFF</item>
+		<!--标题栏颜色-->
+        <item name="colorPrimaryDark">#004DCF</item>
+		<!--任务栏颜色，仅限5.0及以上-->
+        <item name="colorAccent">#000000</item>
+		<!--
+	<item name="android:windowTranslucentStatus">true</item>
+	<item name="android:windowTranslucentNavigation">true</item>
+		-->
+    </style>
 </resources>

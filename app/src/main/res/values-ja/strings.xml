@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">戦艦少女R翻訳ツール</string>
+	<string name="btzh">中国語へ戻ります</string>
+	<string name="btjp">日本語へ変換します</string>
+	<string name="btkr">英語へ変換します</string>
+	<string name="textm">バージョン:</string>
+	<string name="zh">中国語</string>
+	<string name="jp">日本語</string>
+	<string name="kr">英語</string>
+	<string name="about">ツールについて</string>
+	<string name="confirm">ご注意します！</string>
+	<string name="exit">エグジット</string>
+	<string name="cancel">キャンセル</string>
+	<string name="exit_msg">確実にエグジットしますか？</string>
+	<string name="udo">失敗しました！</string>
+	<string name="succes">成功しました！</string>
+	<string name="setting">設定</string>
+	<string name="ok">確定</string>
+	<string name="vererr">エラー！パッチのバージョンが低すぎ</string>
+	<string name="notice">ヒント</string>
+	<string name="ovrdmsg">全てのプロテクトをオーバーライドします、もしエラーが発生したら、戦艦少女Ｒを再インストールのリスクがあります</string>
+	<string name="ovrd">全てのプロテクトをオーバーライドします</string>
+	<string name="override_md">モード　オーバーライド</string>
+    <string name="update">アップデータ</string>
+	<string name="updatemsg">プログラムデータは古い。アップデータしまか？</string>
+	<string name="register">サインアップ</string>
+	<string name="regist_code">サインアップコード:</string>
+	<string name="key">キー:</string>
+	<string name="generate">作成</string>
+	<string name="advance">アドバンスド</string>
+    <string name="about_msg_ja">
+		主程序:CHH2000day 腹黑小喵 \n日文:\n策划       平胸宁海异闻录 \n程序       卡布奇诺 \n美工       Einherjar \n翻译       平胸宁海异闻录、saya、曦夕、TT旋律、駅のこ、toby chen（排名不分先后）\n校对（日） 山猫りんくす、合歓依　芳之、各々、月宮イル、Yamoto（排名不分先后）\n协力       焼き豚 \n 如果您发现任何bug或者建议，请联系CHH2000day@gmail.com或者languagepatch@sina.com
+	</string>
+	<string name="changelog">アップデータ内容</string>
+	<string name="close">クローズ</string>
+	
+    
+    </resources>

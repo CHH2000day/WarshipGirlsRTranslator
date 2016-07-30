@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">战舰少女R翻译器</string>
-    <string name="hello_world">Hello world!</string>
-
-</resources>
+    <string name="app_name">WarshipgirlsR Translater</string>
+	<string name="textm">CurrentVersion:</string>
+	<string name="about">about</string>
+	<string name="confirm">CAUTION！</string>
+	<string name="exit">Exit</string>
+	<string name="cancel">Cancel</string>
+	<string name="exit_msg">Confirm to exit？</string>
+	<string name="succes">succesed!</string>
+	<string name="setting">Setting</string>
+	<string name="ok">OK</string>
+	<string name="vererr">Error! App data version is older than game\'s</string>
+	<string name="notice">Notice</string>
+	<string name="ovrdmsg">You will lost all protection and you may have to reinstsll WarshipGirls R.Continue?</string>
+	<string name="ovrd">Override all verification.</string>
+	<string name="override_md">Enable override mode</string>
+	<string name="update">Update</string>
+	<string name="updatemsg">App data version is older than game\'s.Update now?</string>
+	<string name="failed">Failed!</string>
+	<string name="register">Register</string>
+	<string name="regist_code">Regist Code:</string>
+	<string name="key">Key:</string>
+	<string name="generate">Generate</string>
+	<string name="advance">Advance</string>
+	<string name="about_msg_ja">
+		主程序:CHH2000day \n日文:\n策划       平胸宁海异闻录 \n程序       卡布奇诺 腹黑小喵 \n美工       Einherjar \n翻译       平胸宁海异闻录、saya、曦夕、TT旋律、駅のこ、toby chen（排名不分先后）\n校对（日） 山猫りんくす、合歓依　芳之、各々、月宮イル、Yamoto（排名不分先后）\n协力       焼き豚 \n If there is any bug or you have any advise,please e-mail to CHH2000day@gmail.com orlanguagepatch@sina.com
+	</string>
+	<string name="changelog">ChangeLog</string>
+	<string name="close">Close</string>
+    <string name="permission_msg">This application needs permission "WRITE_EXTERNAL_STORAGE" and "READ_EXTERNAL_STORAGE" to download mod.Give these permissions to this application?</string>
+    <string name="crash_msg_head">There is something wrong happening.This application must be shut down now.The crash log will be saved to the following position:</string>
+    <string name="crash_msg_tail">Please e-mail it to CHH2000day@gmail.com</string>
+    <string name="please_wait">Please wait.....</string>
+    <string name="newver_msg">A new version detected,do you want to update now?\nChangelog:\n</string>
+    <string name="download">Download</string>
+    <string name="install">Install</string>
+    <string name="basic_setting">Basic setting</string>
+    <string name="enable_log">Enable log</string>
+    <string name="server_type">Server type</string>
+    <string name="select_server_type">Select server type</string>
+    </resources>
